@@ -1,0 +1,52 @@
+[
+    {
+        "question": "O que é Powergaming?",
+        "options": "1. Abusar de mecânicas para ter vantagem.\n2. Interpretar um personagem poderoso.\n3. Usar informações de fora do jogo.\n4. Matar sem motivo aparente.",
+        "correct": "1"
+    },
+    {
+        "question": "O que significa a sigla RDM (Random Deathmatch)?",
+        "options": "1. Conversar com outros jogadores.\n2. Matar outro jogador sem motivo de RP.\n3. Dirigir de forma aleatória.\n4. Criar um personagem aleatório.",
+        "correct": "2"
+    },
+    {
+        "question": "O que é Metagaming?",
+        "options": "1. Jogar um jogo dentro do jogo.\n2. Ganhar sempre em todas as situações.\n3. Usar informações de fora do jogo para benefício no RP.\n4. Falar sobre a mecânica do jogo.",
+        "correct": "3"
+    },
+    {
+        "question": "O que é VDM (Vehicle Deathmatch)?",
+        "options": "1. Comprar um veículo novo.\n2. Matar com um veículo intencionalmente e sem motivo de RP.\n3. Participar numa corrida de carros.\n4. Modificar o seu veículo.",
+        "correct": "2"
+    },
+    {
+        "question": "Qual a atitude correta se você encontrar um bug?",
+        "options": "1. Ignorar e continuar a jogar.\n2. Aproveitar-se do bug para obter vantagens.\n3. Reportar o bug à administração imediatamente.\n4. Contar aos seus amigos para usarem.",
+        "correct": "3"
+    },
+    {
+        "question": "O que é 'Amor à Vida' no RP?",
+        "options": "1. Gostar de animais.\n2. Valorizar a sua vida, agindo de forma realista em perigo.\n3. Ser um paramédico.\n4. Evitar qualquer tipo de confronto.",
+        "correct": "2"
+    },
+    {
+        "question": "O que fazer se um jogador cometer uma infração contra si?",
+        "options": "1. Discutir com ele no chat OOC.\n2. Cometer a mesma infração contra ele.\n3. Continuar o RP e reportar à administração com provas.\n4. Sair do servidor.",
+        "correct": "3"
+    },
+    {
+        "question": "O que significa 'interpretar um personagem'?",
+        "options": "1. Falar com uma voz diferente.\n2. Agir conforme a personalidade e história do seu personagem.\n3. Usar as roupas mais caras.\n4. Ter o carro mais rápido.",
+        "correct": "2"
+    },
+    {
+        "question": "Posso forçar um RP que envolva temas sensíveis (assédio, etc.)?",
+        "options": "1. Sim, desde que seja realista.\n2. Não, a menos que todos os envolvidos consintam fora do jogo.\n3. Sim, se for contra um inimigo.\n4. Não, é sempre proibido.",
+        "correct": "2"
+    },
+    {
+        "question": "Qual é o objetivo principal do Roleplay?",
+        "options": "1. Acumular a maior quantidade de dinheiro.\n2. Vencer todos os confrontos.\n3. Criar e desenvolver histórias colaborativas.\n4. Explorar o mapa do jogo.",
+        "correct": "3"
+    }
+]

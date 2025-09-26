@@ -1,0 +1,68 @@
+{
+  "BOT_TOKEN": "MTQwMjYzOTk2OTQwNjgxNjM1OA.G19NOD.aXa5YhSH3gx0fHMH4ZPQDRDAItG_Ybmi2EWzcg",
+  "CLIENT_ID": "1402639969406816358",
+  "GUILD_ID": "1154099435802984621",
+  "DB_HOST": "212.18.114.22",
+  "DB_USER": "bot_bfh",
+  "DB_PASSWORD": "SH3gx0fHMH4ZPQDR",
+  "DB_NAME": "creativev5",
+
+  "ROLES": {
+    "REMOVE_AFTER_WL": "1155279032447934495",
+    "ADMIN": "1329548712527003860",
+    "STAFF": "1402034326505263275",
+    "WELCOME": "1155279032447934495",
+    "WHITELIST": "1402063902556291335",
+    "AWAITING_INTERVIEW_ROLE": "1402702076630401056",
+    "AWAITING_ID_RELEASE_ROLE": "1402702260563214336",
+    "TICKET_ROLES": {
+      "compra": "1418646123354263564",
+      "suporte": "1418646283668947067",
+      "bug": "1418646324517015652",
+      "denuncia": "1418646465890226327"
+    }
+  },
+
+  "CHANNELS": {
+    "WL_RESULT_CHANNEL_ID": "1402038215732494368",
+    "STAFF_APPROVAL_CHANNEL_ID": "1402702626419904593",
+    "ID_RELEASE_CHANNEL_ID": "1402702791545323551"
+  },
+
+  "INTERVIEW_CATEGORY_ID": "1402065909169918154",
+  "TICKET_CATEGORIES": {
+    "compra": "1418643744101765290",
+    "suporte": "1402048455127601192",
+    "bug": "1418644011207360693",
+    "denuncia": "1418644081990566110"
+  },
+  "WELCOME_CHANNEL_ID": "1158227748427407380",
+  "SUGGESTION_CHANNEL_ID": "1334547129409998988",
+  "TICKET_LOGS_CHANNEL_ID": "1402703633291804702",
+  "BACKUP_CHANNEL_ID": "1402703741995712612",
+  "INVITE_LOG_CHANNEL_ID": "1402040252130005184",
+  
+  "LOGS": {
+    "WEBHOOK_URL": "https://discord.com/api/webhooks/1402703856613199972/pZ4XEFHGrz6vkx9_qdX-3n4OZr4HAfpcyS42KTiwI8hAOtHyiBqIDkm8u96BLj9YQdmM"
+  },
+
+  "HOST_FIVEM": "212.18.114.22",
+  "PORT_FIVEM": "30120",
+  "CFX_CODE": "537rpz",
+  "CONNECT_DOMAIN": "teste.five-m.city",
+
+  "SOCIAL": {
+    "CFX": "https://cfx.re/join/537rpz",
+    "INSTAGRAM": "https://www.instagram.com/brasilfivemhost",
+    "TIKTOK": "https://www.tiktok.com/@kratosplays1",
+    "DISCORD": "https://discord.gg/ZseFeAW4"
+  },
+
+  "roleSystem": {
+    "type": "auto",
+    "verificationChannel": "1365668915455197224",
+    "verificationMessage": "Clique no botão abaixo para verificar sua conta e obter acesso ao servidor.",
+    "verificationButtonLabel": "Verificar",
+    "verificationButtonEmoji": "✅"
+  }
+}

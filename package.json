@@ -1,0 +1,31 @@
+{
+    "name": "discord-bot",
+    "version": "1.0.3",
+    "description": "Bot Discord para servidor FiveM",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "@androz2091/discord-invites-tracker": "^1.2.3",
+        "axios": "^0.26.1",
+        "discord.js": "^14.0.0",
+        "fs": "^0.0.1-security",
+        "mysql2": "^3.0.0",
+        "mysqldump": "^3.2.0",
+        "node-cron": "^3.0.3",
+        "node-fetch": "^3.3.2",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.0"
+    },
+    "engines": {
+        "node": ">=16.0.0",
+        "npm": ">=7.0.0"
+    },
+    "author": "Brasil fivem Host",
+    "license": "ISC"
+}
